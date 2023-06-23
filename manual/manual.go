@@ -23,7 +23,7 @@ package manual
 import (
 	"sync"
 
-	"github.com/qiyouForSql/resolverForgrpc/reslover"
+	"github.com/qiyouForSql/resolverForgrpc/resolver"
 )
 
 // NewBuilderWithScheme creates a new test resolver builder with the given scheme.
