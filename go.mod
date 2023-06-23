@@ -1,6 +1,6 @@
-module github.com/qiyouForSql/resolverForgrpc
+module github.com/qiyoufoxiii/resolverforgrpc
 
-go 1.20
+go 1.19
 
 require (
 	github.com/golang/protobuf v1.5.3 // indirect
