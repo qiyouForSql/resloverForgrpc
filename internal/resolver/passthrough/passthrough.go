@@ -23,7 +23,7 @@ package passthrough
 import (
 	"errors"
 
-	"github.com/qiyouForSql/resolverForgrpc/resolver"
+	"github.com/qiyoufoxiii/resolverforgrpc/resolver"
 )
 
 const scheme = "passthrough"

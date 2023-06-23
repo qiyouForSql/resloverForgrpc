@@ -24,8 +24,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/qiyouForSql/resolverForgrpc/connectivity"
-	"github.com/qiyouForSql/resolverForgrpc/serviceconfig"
+	"github.com/qiyoufoxiii/resolverforgrpc/connectivity"
+	"github.com/qiyoufoxiii/resolverforgrpc/serviceconfig"
 )
 
 var (

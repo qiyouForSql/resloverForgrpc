@@ -26,11 +26,11 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	icredentials "github.com/qiyouForSql/resolverForgrpc/internal/resolver/credentials"
+	icredentials "github.com/qiyoufoxiii/resolverforgrpc/internal/resolver/credentials"
 	"net"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/qiyouForSql/resolverForgrpc/attributes"
+	"github.com/qiyoufoxiii/resolverforgrpc/attributes"
 )
 
 // PerRPCCredentials defines the common interface for the credentials which need to

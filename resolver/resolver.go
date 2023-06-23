@@ -27,9 +27,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/qiyouForSql/resolverForgrpc/attributes"
-	"github.com/qiyouForSql/resolverForgrpc/credentials"
-	"github.com/qiyouForSql/resolverForgrpc/serviceconfig"
+	"github.com/qiyoufoxiii/resolverforgrpc/attributes"
+	"github.com/qiyoufoxiii/resolverforgrpc/credentials"
+	"github.com/qiyoufoxiii/resolverforgrpc/serviceconfig"
 )
 
 var (
